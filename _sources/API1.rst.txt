@@ -1,0 +1,7 @@
+API1 module
+===========
+
+.. automodule:: API1
+    :members:
+    :undoc-members:
+    :show-inheritance:
